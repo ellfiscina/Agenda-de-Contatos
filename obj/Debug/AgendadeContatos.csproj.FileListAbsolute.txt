@@ -1,0 +1,11 @@
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\bin\Debug\AgendadeContatos.exe.config
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\bin\Debug\AgendadeContatos.exe
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\bin\Debug\AgendadeContatos.pdb
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.csprojResolveAssemblyReference.cache
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.Properties.Resources.resources
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.csproj.GenerateResource.Cache
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.exe
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.pdb
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.FrmMain.resources
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.FrmContato.resources
+c:\users\aula\documents\visual studio 2013\Projects\AgendadeContatos\AgendadeContatos\obj\Debug\AgendadeContatos.FrmCidade.resources
